@@ -1,16 +1,16 @@
-## Hi there 👋
+# Tere! Olen Tanel 👋
 
-<!--
-**tanel011/tanel011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Õpin Haapsalu Kutsehariduskeskuses IT-26.
 
-Here are some ideas to get you started:
+## Minust
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Mind huvitab arvutis uute programmide proovimine.
+- Vabal ajal käin õues jooksmas
+
+## Mida ma olen õppinud
+
+| Õppeaine | Mida oskan |
+|---|---|
+| Digisisu loomine | Oskan teha nii 2D kui ka 3D mudeleid |
+| Maa kui süsteem | Tean rohkem vulkaanidest ja atmosfäärist |
+| Dokumentatsiooni loomine | Oskan Wordi ja Excelit|
